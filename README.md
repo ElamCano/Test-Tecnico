@@ -2,7 +2,7 @@
 
 ## Realizacion de cards de productos con React y TailwindCSS
 
-![cover]("./cover.png")
+![cover](https://github.com/ElamCano/Test-Tecnico/blob/main/cover.png)
 
 ### Author
 
