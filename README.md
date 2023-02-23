@@ -1,10 +1,10 @@
 # TECH TEST
 
-## Realizacion de cards de productos con React y TailwindCSS
+## Custom Product Cards with React, Redux and TailwindCSS
 
 ![cover](https://github.com/ElamCano/Test-Tecnico/blob/main/cover.png)
 
-Puedes ver la aplicación deployada en Vercel con el siguiente link: [Test](https://test-tecnico-rust.vercel.app/)
+You can access the site deployed in Vercel at the following link: [Test](https://test-tecnico-rust.vercel.app/)
 
 ## Author
 
