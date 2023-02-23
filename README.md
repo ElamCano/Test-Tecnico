@@ -2,7 +2,7 @@
 
 ## Realizacion de cards de productos con React y TailwindCSS
 
-![cover]("./cover.png)
+![cover]("./cover.png")
 
 ### Author
 
