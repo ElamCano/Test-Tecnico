@@ -1,12 +1,14 @@
-# TESCH TEST
+# TECH TEST
 
 ## Realizacion de cards de productos con React y TailwindCSS
 
-## Author
+![cover]("./cover.png)
+
+### Author
 
 - [Elam Cano](https://www.linkedin.com/in/elam-cano-bb0419239/)
 
-## Run Locally
+### Run Locally
 
 Clone the project
 
