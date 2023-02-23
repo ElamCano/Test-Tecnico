@@ -4,6 +4,8 @@
 
 ![cover](https://github.com/ElamCano/Test-Tecnico/blob/main/cover.png)
 
+Puedes ver la aplicación deployada en Vercel con el siguiente link: [Test](https://test-tecnico-rust.vercel.app/)
+
 ## Author
 
 - [Elam Cano](https://www.linkedin.com/in/elam-cano-bb0419239/)
