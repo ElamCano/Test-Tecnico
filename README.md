@@ -4,7 +4,7 @@
 
 ![cover](https://github.com/ElamCano/Test-Tecnico/blob/main/cover.png)
 
-You can access the site deployed in Vercel at the following link: [Test](https://test-tecnico-rust.vercel.app/)
+You can access the site deployed in Vercel at the following: [Link](https://test-tecnico-rust.vercel.app/)
 
 ## Author
 
