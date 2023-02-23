@@ -21,7 +21,7 @@ git clone https://github.com/ElamCano/Test-Tecnico.git
 Go to the project directory
 
 ```bash
-cd test tecnico
+cd Test Tecnico
 ```
 
 Install dependencies in folder (client)
