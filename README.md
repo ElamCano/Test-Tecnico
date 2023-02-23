@@ -20,7 +20,7 @@ Go to the project directory
 cd test tecnico
 ```
 
-Install dependencies in folder (CLIENT)
+Install dependencies in folder (client)
 
 ```bash
 cd client/
@@ -28,8 +28,6 @@ cd client/
 ```
 
 Start the server
-
-Front
 
 ```bash
 cd client/
