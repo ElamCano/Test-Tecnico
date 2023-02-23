@@ -4,11 +4,11 @@
 
 ![cover](https://github.com/ElamCano/Test-Tecnico/blob/main/cover.png)
 
-### Author
+## Author
 
 - [Elam Cano](https://www.linkedin.com/in/elam-cano-bb0419239/)
 
-### Run Locally
+## Run Locally
 
 Clone the project
 
